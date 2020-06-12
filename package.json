@@ -1,0 +1,15 @@
+{
+  "name": "gradescontrol",
+  "version": "1.0.0",
+  "description": "api for control of grades",
+  "main": "index.js",
+  "author": "Paulo Scheuer Gomes",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon -r esm index.js"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  }
+}
